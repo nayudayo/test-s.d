@@ -23,6 +23,12 @@ export const products = [
     name: 'Bangus',
     price: 99,
     description: 'Inihaw na Bangus'
+  },
+  {
+    id: 4,
+    name: 'Meal 2',
+    price: 115,
+    description: '4 pieces wings'
   }
 ];
 
